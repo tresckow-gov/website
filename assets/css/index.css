@@ -5,11 +5,12 @@
 	position: relative;
 	margin-top: 106px;
 	overflow: hidden;
+
 }
 .main-banner .banner-text span {
 	font-weight: 600;
 	color: #fff;
-	font-size: 18px;
+	font-size: 20px;
 	display: block;
 	margin-bottom: 5px;
 	font-family: 'Poppins', sans-serif;
@@ -30,7 +31,7 @@
 .main-banner .banner-text p {
 	font-family: 'Poppins', sans-serif;
 	color: #fff;
-	font-size: 15px;
+	font-size: 18px;
 	margin-bottom: 20px;
 	line-height: 1.8;
 }
